@@ -59,10 +59,18 @@ ul.timeline > li:before {
   color: white;
 }
 * {box-sizing: border-box}
-.html {width: 90%; background-color: #4CAF50;}
-.css {width: 80%; background-color: #2196F3;}
-.js {width: 65%; background-color: #f44336;}
-.php {width: 60%; background-color: #808080;}
+.dstruct {width: 70%; background-color: #4CAF50;}
+.web {width: 80%; background-color: #2196F3;}
+.cloud {width: 65%; background-color: #f44336;}
+.data {width: 60%; background-color: #808080;}
+.comparch {width: 60%; background-color: #4CAF50;}
+.social {width: 68%; background-color: #2196F3;}
+.maths2 {width: 80%; background-color: #f44336;}
+.sdev2 {width: 60%; background-color: #808080;}
+.sof4 {width: 65%; background-color: #4CAF50;}
+.pro {width: 60%; background-color: #2196F3;}
+.net {width: 75%; background-color: #f44336;}
+.sec {width: 60%; background-color: #808080;}
 
 
 @media (min-width: 768px) {
