@@ -17,23 +17,13 @@
   ul.timeline {
     position: relative;
 }
-ul.timeline:before {
-    content: ' ';
-    background: grey;
-    display: inline-block;
-    position: absolute;
-    left: 29px;
-    width: 2px;
-    height: 100%;
-    z-index: 400;
-}
 ul.timeline > li:before {
     content: ' ';
     background: white;
     display: inline-block;
     position: absolute;
     border-radius: 50%;
-    border: 3px solid #10323a;
+    border: 3px solid #0E76A8;
     left: 20px;
     width: 20px;
     height: 20px;
