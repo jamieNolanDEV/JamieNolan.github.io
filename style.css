@@ -55,18 +55,27 @@ ul.timeline > li:before {
 }
 * {box-sizing: border-box}
 .dstruct {width: 70%; background-color: #4CAF50;}
-.web {width: 80%; background-color: #2196F3;}
-.cloud {width: 65%; background-color: #f44336;}
-.data {width: 60%; background-color: #808080;}
+.web {width: 80%; background-color: #4CAF50;}
+.cloud {width: 65%; background-color: #4CAF50;}
+.data {width: 60%; background-color: #4CAF50;}
 .comparch {width: 60%; background-color: #4CAF50;}
-.social {width: 68%; background-color: #2196F3;}
-.maths2 {width: 80%; background-color: #f44336;}
-.sdev2 {width: 60%; background-color: #808080;}
+.social {width: 68%; background-color: #4CAF50;}
+.maths2 {width: 80%; background-color: #4CAF50;}
+.sdev2 {width: 60%; background-color: #4CAF50;}
 .sdev4 {width: 65%; background-color: #4CAF50;}
-.pro {width: 60%; background-color: #2196F3;}
-.net2 {width: 75%; background-color: #f44336;}
-.sec {width: 60%; background-color: #808080;}
-
+.pro {width: 60%; background-color: #4CAF50;}
+.net2 {width: 75%; background-color: #4CAF50;}
+.sec {width: 60%; background-color: #4CAF50;}
+.database {width: 60%; background-color: #4CAF50;}
+.business {width: 60%; background-color: #4CAF50;}
+.dmaths1 {width: 40%; background-color: #4CAF50;}
+.squal {width: 67%; background-color: #4CAF50;}
+.opsys {width: 68%; background-color: #4CAF50  ;}
+.advdata {width: 65%; background-color: #4CAF50;}
+.webdes {width: 60%; background-color: #4CAF50;}
+.mansci {width: 60%; background-color: #4CAF50;}
+.dataprog {width: 65%; background-color: #4CAF50;}
+.sdev1 {width: 65%; background-color: #4CAF50;}
 
 
 
